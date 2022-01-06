@@ -1,5 +1,5 @@
 # Clubeleitura
 
-Dashboard elaborado:
-link de acesso:
+Dashboard desenvolvido para projetos pontuais.
+Link de acesso:
 https://app.powerbi.com/view?r=eyJrIjoiMTBkNTgwZWUtOTkwZi00ZTgyLTg2MzQtYzhmMjAzMGEzNmNmIiwidCI6IjFjNDAxYzNkLWYyZjAtNDkwMC1hMzQ1LTRhMDA3YjIxYWQ0OCJ9&pageName=ReportSection0ead1d5c3a5ecf732c60
